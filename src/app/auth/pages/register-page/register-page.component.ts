@@ -21,7 +21,7 @@ export class RegisterPageComponent {
   constructor ( private fb: FormBuilder) {}
 
  isValidField (field: string) {
-  //TODO: obtener la validacion desde un servicio
+  //TODO: obtener la validacion desde un servicio 
  }
 
   onSubmit() {
